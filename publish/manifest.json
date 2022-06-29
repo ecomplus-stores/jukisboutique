@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.4f28d7da0532b8b44501760688817d6b.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.b441679b48ee9ece84202add87ff5ddf.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.6abb19098a34454771694f2d8b1d64b9.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.a1113c414d40a5f3d78a0a36f624d5cb.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.20c7a7303f55c80a416ab6ecab2cdfa1.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "JUKIS",
+  "short_name": "JUKIS",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "JUKIS MODA FEMININA",
+  "background_color": "#ffffff",
+  "theme_color": "#030303"
+}
